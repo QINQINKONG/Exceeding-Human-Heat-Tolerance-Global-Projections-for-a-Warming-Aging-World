@@ -1,4 +1,4 @@
-# Replication-data-for-Age-related-vulnerability-greatly-amplifies-the-risk-of-uncompensable-heat
+# Replication data for Age-related vulnerability greatly amplifies the risk of uncompensable heat
 This repository contains the dataset and Jupyter Notebooks that can be used to reproduce all figures in the paper "Age-related vulnerability greatly amplifies the risk of uncompensable heat" by Kong et al. (2025). There are two folders:
 
 - **./Jupyternotebook**: Jupyter Notebooks for reproducing figures in "Age-related vulnerability greatly amplifies the risk of uncompensable heat" by Kong et al.
