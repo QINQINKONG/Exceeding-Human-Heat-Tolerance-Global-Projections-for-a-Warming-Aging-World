@@ -7,7 +7,7 @@ This repository contains the dataset and Jupyter Notebooks that can be used to r
 - **./data**: dataset needed for running Jupyter notebooks including the following:
 
   - `Annual_uncompensable_heat_hours.nc`
-    Annal number of hours exceeding the heat compensability limits for three age groups and 16 CMIP6 climate models under 1-4°C global warming
+    Annal number of hours exceeding heat compensability limits for three age groups at 1.5, 2, 3, and 4°C warming based on ensemble mean of 15 CMIP6 climate models.
 
   - `Country_level_exposed_pop_num.nc`
     The number of young, middle-aged, and old population exposed to at least 180 hours of uncompensable heat stress annually in each individual country; for 15 CMIP6 climate models under 3°C warming
